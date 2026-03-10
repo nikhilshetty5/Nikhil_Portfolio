@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Mail, Phone, MapPin, Linkedin, Github } from 'lucide-react';
+import { Mail, MapPin, Linkedin, Github } from 'lucide-react';
 
 export default function Contact() {
   return (
@@ -37,21 +37,6 @@ export default function Contact() {
                   className="text-slate-600 hover:text-indigo-600 transition-colors"
                 >
                   nikhilshetty0014@outlook.com
-                </a>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-4">
-              <div className="w-12 h-12 rounded-2xl bg-emerald-50 flex items-center justify-center shrink-0">
-                <Phone className="text-emerald-600" size={24} />
-              </div>
-              <div>
-                <h3 className="text-lg font-bold text-slate-900 mb-1">Phone</h3>
-                <a
-                  href="tel:+919353633186"
-                  className="text-slate-600 hover:text-emerald-600 transition-colors"
-                >
-                  +91 93536 33186
                 </a>
               </div>
             </div>

@@ -1,7 +1,7 @@
 # NIKHIL SHETTY
 **Embedded Software Engineer**
 
-📍 Bengaluru, KA | 📞 +919353633186 | ✉️ [nikhilshetty0014@outlook.com](mailto:nikhilshetty0014@outlook.com)
+📍 Bengaluru, KA | ✉️ [nikhilshetty0014@outlook.com](mailto:nikhilshetty0014@outlook.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-shetty-76a7021a1) | 💻 [GitHub](https://github.com/nikhilshetty5)
 
 ---
